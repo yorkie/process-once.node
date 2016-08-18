@@ -1,0 +1,29 @@
+{
+  "name": "process-once.node",
+  "version": "1.0.0",
+  "description": "run function once in one process",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node-gyp configure && node-gyp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yorkie/process-once.node.git"
+  },
+  "keywords": [
+    "node",
+    "addon",
+    "process",
+    "pthread"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/process-once.node/issues"
+  },
+  "homepage": "https://github.com/yorkie/process-once.node#readme",
+  "dependencies": {
+    "nan": "^2.4.0"
+  }
+}
