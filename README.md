@@ -6,7 +6,7 @@ The `pthread_once(3)` binding to the Node.js community.
 ### Installation
 
 ```sh
-$ npm install process-once.node
+$ npm install process-once.node --save
 ```
 
 ### Example

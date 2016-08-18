@@ -1,6 +1,6 @@
 {
   "name": "process-once.node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "run function once in one process",
   "main": "index.js",
   "scripts": {
